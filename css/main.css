@@ -121,9 +121,9 @@ header a {
   font-size: 35px;
 }
 .container-images {
-  margin-left: 114px;
+  margin-left: 140px;
   height: 1100px;
-  margin-top: 190px;
+  margin-top: 210px;
 }
 .three-images {
   width: 100%;
@@ -153,6 +153,9 @@ header a {
 }
 .text-uppercase {
   text-transform: uppercase;
+}
+.b-gray {
+  background: rgb(55,59,71);
 }
 .bold {
   font-weight: 600;
